@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu'alaikum everyone!</h1>rc
+<h1 align="center">Assalamu'alaikum everyone!</h1>
 
 <p align="center">
 <img src="https://github.com/taufiqjack/taufiqjack.github.io/blob/main/images/background.jpg"/>
