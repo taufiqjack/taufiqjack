@@ -1,13 +1,14 @@
 ### Assalamu'alaikum everyone! 
 
-
+<p align='center'>
 ```
-[github : taufiqjack](http://github.com/taufiqjack)
+github : taufiqjack
 linkedin : Taufiq Dwi Cahyono
 instagram : cahyonoz
 twitter : @monztervix
 youtube : TaufiqJack
 ```
+</p>
 
 <!--
 **taufiqjack/taufiqjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
