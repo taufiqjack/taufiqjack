@@ -1,10 +1,12 @@
-### Hi there 👋
+### Assalamu'alaikum everyone! 
 
 
 ```
-github : taufiqjack
+github : taufiqjack[http://github.com/taufiqjack]
+linkedin : Taufiq Dwi Cahyono
 instagram : cahyonoz
 twitter : @monztervix
+youtube : TaufiqJack
 ```
 
 <!--
