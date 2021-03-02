@@ -1,16 +1,13 @@
-### Assalamu'alaikum everyone! 
-
-<!--
 <p align='center'>
-  </p>
-  -->
+### Assalamu'alaikum everyone!
+</p>
   
 ```
-                        github : taufiqjack
-                        linkedin : Taufiq Dwi Cahyono
-                        instagram : cahyonoz
-                        twitter : @monztervix
-                        youtube : TaufiqJack
+                                          github : taufiqjack
+                                          linkedin : Taufiq Dwi Cahyono
+                                          instagram : cahyonoz
+                                          twitter : @monztervix
+                                          youtube : TaufiqJack
 ```
 
 
