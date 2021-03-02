@@ -1,9 +1,5 @@
+<h1 align="center">Assalamu'alaikum everyone!</h1>
 
-                                       ### Assalamu'alaikum everyone!
-
-<!-- <p align='center'> 
-</p>
--->
   
 ```
                                           github : taufiqjack
