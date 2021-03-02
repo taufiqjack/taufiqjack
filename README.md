@@ -10,7 +10,7 @@
                                           linkedin : Taufiq Dwi Cahyono
                                           instagram : cahyonoz
                                           twitter : @monztervix
-                                          youtube : TaufiqJack
+                                          youtube : Taufiq Jack
 ```
 
 
