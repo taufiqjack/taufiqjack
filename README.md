@@ -7,7 +7,7 @@
   
 ```
                                           github : taufiqjack
-                                          linkedin : Taufiq Dwi Cahyono
+                                          linkedln : Taufiq Dwi Cahyono
                                           instagram : cahyonoz
                                           twitter : @monztervix
                                           youtube : Taufiq Jack
