@@ -5,15 +5,14 @@
   </p>
 
   
-```
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/monztervix.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/monztervix)
+
 <!--                                           github : taufiqjack
                                           linkedln : Taufiq Dwi Cahyono
                                           instagram : cahyonoz
                                           twitter : @monztervix
-                                          youtube : Taufiq Jack -->
-```
-
+                                          youtube : Taufiq Jack 
+-->
 
 <!--
 **taufiqjack/taufiqjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
