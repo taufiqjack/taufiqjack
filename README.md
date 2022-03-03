@@ -5,8 +5,8 @@
   </p>
 
   
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/monztervix.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/monztervix)
-
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/monztervix.svg?style=social&label=Follow%20%40bmonztervix)](https://twitter.com/monztervix)
+[![Instagram URL](https://instagram.com/cahyonoz)
 <!--                                           github : taufiqjack
                                           linkedln : Taufiq Dwi Cahyono
                                           instagram : cahyonoz
