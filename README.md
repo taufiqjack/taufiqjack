@@ -1,12 +1,17 @@
 <h1 align="center">Assalamu'alaikum everyone!</h1>
 
-<p align="center">
+[![Taufiq Jack’s github stats](https://github-readme-stats.vercel.app/api?username=taufiqjack)](https://github.com/taufiqjack)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqjack&layout=compact)](https://github.com/taufiqjack)
+
+<!-- <p align="center">
 <img src="https://github.com/taufiqjack/taufiqjack.github.io/blob/main/images/background.jpg"/>
-  </p>
+  </p> -->
 
   
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/monztervix.svg?style=social&label=Follow%20%40monztervix)](https://twitter.com/monztervix)
-[![Instagram URL](https://img.shields.io/instagram/url/https/instagram.com/cahyonoz.svg?style=social&label=Follow%20%40cahyonoz)](https://instagram.com/cahyonoz)
+
+
 <!--                                           github : taufiqjack
                                           linkedln : Taufiq Dwi Cahyono
                                           instagram : cahyonoz
