@@ -3,10 +3,13 @@
 [![Taufiq Jack’s github stats](https://github-readme-stats.vercel.app/api?username=taufiqjack)](https://github.com/taufiqjack)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqjack&layout=compact)](https://github.com/taufiqjack)
+<br/>
 
 <!-- <p align="center">
 <img src="https://github.com/taufiqjack/taufiqjack.github.io/blob/main/images/background.jpg"/>
   </p> -->
+
+# FIND ME ON MEDIA SOCIAL
 
 <a href="https://www.linkedin.com/in/taufiqdwicahyono/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/yushi.95"><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Yu Shi | Instagram" width="21px"/></a>
