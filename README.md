@@ -8,7 +8,9 @@
 <img src="https://github.com/taufiqjack/taufiqjack.github.io/blob/main/images/background.jpg"/>
   </p> -->
 
-  
+<a href="https://www.linkedin.com/in/taufiqdwicahyono/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/yushi.95"><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/monztervix.svg?style=social&label=Follow%20%40monztervix)](https://twitter.com/monztervix)
 
 
