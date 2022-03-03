@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/taufiqdwicahyono/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/yushi.95"><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://twitter.com/monztervix"><img align="left" src="hhttps://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1646275660~hmac=807369ebb8129c8d7178f2f46654bf4d" alt="Yu Shi | Twitter" width="21px"/></a>
+<a href="https://twitter.com/monztervix"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1646275660~hmac=807369ebb8129c8d7178f2f46654bf4d" alt="Yu Shi | Twitter" width="21px"/></a>
 
 
 <!--                                           github : taufiqjack
