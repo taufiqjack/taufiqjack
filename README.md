@@ -11,7 +11,7 @@
 <img src="https://github.com/taufiqjack/taufiqjack.github.io/blob/main/images/background.jpg"/>
   </p> -->
 
-## FIND ME ON MEDIA SOCIAL
+### FIND ME ON SOCIAL MEDIA 
 
 <a href="https://www.linkedin.com/in/taufiq-dwi-cahyono-6974b917a/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="TaufiqJack | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/cahyonoz"><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="TaufiqJack | Instagram" width="21px"/></a>
