@@ -21,6 +21,7 @@
 
 <h3 align="left">SUPPORT ME :</h3>
 <a href="https://www.buymeacoffee.com/taufiqjack" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="[https://www.buymeacoffee.com/taufiqjack](https://saweria.co/taufiqjack)" target="_blank"><img src="https://rencanggunung.com/images/saweria.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--                                           github : taufiqjack
                                           linkedln : Taufiq Dwi Cahyono
