@@ -17,6 +17,7 @@
 <a href="https://instagram.com/cahyonoz"><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" alt="TaufiqJack | Instagram" width="21px"/></a>
 <a href="https://twitter.com/monztervix"><img align="left" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="TaufiqJack | Twitter" width="21px"/></a>
 <a href="https://youtube.com/taufiqjack"><img align="left" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" alt="TaufiqJack | YouTube" width="21px"/></a>
+<a href="https://play.google.com/store/apps/dev?id=7772432965001005542k"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" alt="CahyonoDev | Google Play Developer" width="21px"/></a>
 
 
 <br/><br/>
