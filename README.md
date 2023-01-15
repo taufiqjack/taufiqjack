@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center">Assalamu'alaikum everyone!</h1> -->
 
-[![Taufiq Jack’s github stats](https://github-readme-stats.vercel.app/api?username=taufiqjack)](https://github.com/taufiqjack)
+[![Taufiq Jack’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taufiqjack&theme=github)](https://github.com/taufiqjack)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqjack&layout=compact)](https://github.com/taufiqjack)
 <br/>
