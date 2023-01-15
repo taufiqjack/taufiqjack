@@ -4,7 +4,7 @@
 
 [![Taufiq Jack’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taufiqjack&theme=github)](https://github.com/taufiqjack)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqjack&layout=compact)](https://github.com/taufiqjack)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taufiqjack&theme=compact)](https://github.com/taufiqjack)
 <br/>
 
 <!-- <p align="center">
