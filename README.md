@@ -11,9 +11,6 @@
 <img src="https://github.com/taufiqjack/taufiqjack.github.io/blob/main/images/background.jpg"/>
   </p> -->
 
-[![An image of @taufiqjack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiqjack)](https://holopin.io/@taufiqjack)
-<br/>
-
 ### FIND ME ON SOCIAL MEDIA 
 
 <a href="https://www.linkedin.com/in/taufiq-dwi-cahyono-6974b917a/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="TaufiqJack | LinkedIn" width="21px"/></a>
