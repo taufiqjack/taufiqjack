@@ -4,7 +4,7 @@
 
 [![Taufiq Jack’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taufiqjack&theme=github)](https://github.com/taufiqjack)
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taufiqjack&theme=github)](https://github.com/taufiqjack)
+[![An image of @taufiqjack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiqjack)](https://holopin.io/@taufiqjack)
 <br/>
 
 <!-- <p align="center">
