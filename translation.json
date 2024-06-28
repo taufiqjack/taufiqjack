@@ -1,11 +1,11 @@
 {
     "locale": [{
-        "languageCode": "en",
-        "name": "en"
-    }, {
         "languageCode": "id",
         "name": "id"
-    }, {
+    },{
+        "languageCode": "en",
+        "name": "en"
+    },{
         "languageCode": "zh",
         "name": "cn"
     }]
