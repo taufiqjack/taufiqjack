@@ -20,7 +20,7 @@
 <a href="https://twitter.com/monztervix"><img align="left" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="TaufiqJack | Twitter" width="21px"/></a>
 <a href="https://youtube.com/taufiqjack"><img align="left" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" alt="TaufiqJack | YouTube" width="21px"/></a>
 <a href="https://play.google.com/store/apps/dev?id=7772432965001005542"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" alt="CahyonoDev | Google Play Developer" width="21px"/></a>
-<a href="https://strava.com/athletes/44271395"><img align="left" src="https://badges.strava.com/logo-strava.png](https://w7.pngwing.com/pngs/885/650/png-transparent-strava-hd-logo-thumbnail.png" alt="TaufiqJack | Strava" width="21px"></a>
+<a href="https://strava.com/athletes/44271395"><img align="left" src="https://w7.pngwing.com/pngs/885/650/png-transparent-strava-hd-logo-thumbnail.png" alt="TaufiqJack | Strava" width="21px"></a>
 
 
 <br/><br/>
