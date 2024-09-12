@@ -20,10 +20,7 @@
 <a href="https://twitter.com/monztervix"><img align="left" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="TaufiqJack | Twitter" width="21px"/></a>
 <a href="https://youtube.com/taufiqjack"><img align="left" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" alt="TaufiqJack | YouTube" width="21px"/></a>
 <a href="https://play.google.com/store/apps/dev?id=7772432965001005542"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" alt="CahyonoDev | Google Play Developer" width="21px"/></a>
-<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/44271395' target="_clean">
-  Follow me on
-  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a>
+<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/44271395' target="_clean">Follow me on<img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51/></a>
 
 
 <br/><br/>
